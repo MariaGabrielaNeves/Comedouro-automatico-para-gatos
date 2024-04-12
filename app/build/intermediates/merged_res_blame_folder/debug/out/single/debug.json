@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\layout_activity_tela_inicial.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\layout\\activity_tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable__51770.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\_51770.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_whatsapp_image_2024_04_08_at_00_07_01.jpeg.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\whatsapp_image_2024_04_08_at_00_07_01.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_voltar.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\voltar.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\layout_activity_dados_cadastrados.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\layout\\activity_dados_cadastrados.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_logo_sem_nome.jpeg.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\logo_sem_nome.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\layout_activity_alterar_info_confirmacao.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\layout\\activity_alterar_info_confirmacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\layout_activity_alterar_informacoes.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\layout\\activity_alterar_informacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.catsafe.app-merged_res-31:/layout_activity_alterar_informacoes.xml.flat",
+        "source": "com.example.catsafe.app-main-33:/layout/activity_alterar_informacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable__59816_200.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\_59816_200.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_botao_continuar.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\botao_continuar.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-merged_res-31:\\drawable_logo_nome.jpeg.flat",
+        "source": "C:\\Users\\maria\\.gradle\\daemon\\8.2\\com.example.catsafe.app-main-33:\\drawable\\logo_nome.jpeg"
+    }
+]
